@@ -1,0 +1,18 @@
+{
+  "name": "express-mongo-backend",
+  "version": "1.0.0",
+  "description": "Simple backend server which connects with simple-angular2-frontend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Pramod",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "~4.16.1",
+    "mongodb": "^2.2.31",
+    "mongoose": "^4.12.1"
+  }
+}
